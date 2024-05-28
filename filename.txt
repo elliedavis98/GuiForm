@@ -1,0 +1,16 @@
+Name: edavis
+Email: elliecdavis
+Credit Card: 
+Expiration Date: 
+CVV: 
+SeaWorld Points: 
+SeaWorld Member: No
+
+Name: james
+Email: elliecdavis
+Credit Card: 45
+Expiration Date: 
+CVV: 
+SeaWorld Points: 
+SeaWorld Member: No
+
